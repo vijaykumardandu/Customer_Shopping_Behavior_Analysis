@@ -172,4 +172,5 @@ Key Features
 
 - Encourage transition from Free → Subscription with exclusive benefits.
 
+![Dashboard]<img width="2011" height="1098" alt="Screenshot 2025-11-16 112647" src="https://github.com/user-attachments/assets/5971d059-a705-40e7-8a83-6f9668fd2ee0" />
 
